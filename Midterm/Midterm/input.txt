@@ -1,0 +1,15 @@
+Gary
+Reid
+Accountant
+8.5
+560
+Johnathon
+Winslow
+Artist
+20.0
+4390
+Marie
+Allen
+Engineer
+12.0
+6050

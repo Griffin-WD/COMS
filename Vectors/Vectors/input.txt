@@ -1,0 +1,30 @@
+John
+Doe
+10375923
+Computer Science
+Chelsie Martin
+3.25
+16
+2027
+Calculus II
+Composition I
+Jane
+Doe
+11298374
+Agriculture
+Chelsie Martin
+3.75
+15
+2028
+Principles of Plant Science
+Intro to University
+Dwayne
+Johnson
+1325729
+Theatre and Film Production
+Chelsie Martin
+3.35
+18
+2026
+Directing Theories and Techniques
+Acting Theories and Techniques
