@@ -1,1 +1,1 @@
-std::cout << "Hello, World!"; hi
+std::cout << "Hello, World!";
